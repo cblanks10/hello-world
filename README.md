@@ -1,6 +1,8 @@
 # hello-world
 
-Hi, my name is Chris. I am looking forward to learning how to become a developer. Im currently taking a coarse online to get started... I have six monthes to test my self to see how far I can get. Lets see how far I can get. 
+Hi, my name is Chris. I am looking forward to learning how to become a developer. Im currently taking a coarse online to get started... I have six monthes to test my self to see how far I can get. So lets see.
+
+
 11/12/18 So far in the last hour I've learned the following:
 
 * Created an open source repository
