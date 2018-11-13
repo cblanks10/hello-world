@@ -7,4 +7,4 @@ Hi, my name is Chris. I am looking forward to learning how to become a developer
 * Started and managed a new branch
 * Changed a file and committed those changes to GitHub
 * Opened and merged a Pull Request
- An those bullets though. 
+ An those bullets though. 
