@@ -10,4 +10,4 @@ Hi, my name is Chris. I am looking forward to learning how to become a developer
 * Changed a file and committed those changes to GitHub
 * Opened and merged a Pull Request
 
- An those bullets though. 
+ And those bullets though. Also a double space is need to separate paragraphs.
